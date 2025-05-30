@@ -44,7 +44,7 @@ Traditional recon tools generate vast amounts of data. Smart-BugBounty-Recon aim
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/Smart-BugBounty-Recon.git
+    git clone https://github.com/raghu-007/Smart-BugBounty-Recon.git
     cd Smart-BugBounty-Recon
     ```
 2.  Install dependencies:
