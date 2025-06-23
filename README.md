@@ -76,3 +76,4 @@ This project is licensed under the Apache 2.0 License.
 ## ⚠️ Disclaimer
 
 This tool is intended for educational purposes and for use in authorized bug bounty hunting or penetration testing engagements ONLY. Unauthorized scanning of systems is illegal. The developers assume no liability and are not responsible for any misuse or damage caused by this program.
+<!-- GitAds-Verify: TFWSO7FC274G62S3REGD41G7V8H5F1GT -->
